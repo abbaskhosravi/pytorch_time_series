@@ -1,0 +1,4 @@
+.vscode/
+env/
+lightning_logs/
+optuna_test/
